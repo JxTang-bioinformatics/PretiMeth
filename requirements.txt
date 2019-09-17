@@ -1,0 +1,11 @@
+C++:
+Visual Studio 2017
+
+python:
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+sklearn
+statsmodels
