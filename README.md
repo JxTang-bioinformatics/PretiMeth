@@ -17,4 +17,4 @@ https://github.com/JxTang-bioinformatics/PretiMeth.git
 Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6).
 
 Prediction tool:
-PretiMeth/PretiMeth/Model for prediction/prediction.py.
+PretiMeth/Model for prediction/prediction.py.
