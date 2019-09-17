@@ -25,8 +25,8 @@ using namespace std;
 int main() {
 
 	/*Data file name*/
-	char expfn[] = "850kCpG_train_sample_665_exp413719_f4.txt";
-	char obsfn[] = "850kCpG_train_sample_665_obs450137_f4.txt";
+	char expfn[] = "expfileforDemo100_665.txt";
+	char obsfn[] = "obsfileforDemo10000_665.txt";
 
 	double start, stop;
 	fstream f(expfn);
