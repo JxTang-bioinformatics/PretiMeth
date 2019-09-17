@@ -1,9 +1,8 @@
 # PretiMeth
-PretiMeth is a precise computational prediction method of the CpG site-specific methylation level in multiple tissues or cells, it provides 
-continuous methylation prediction values rather than methylation status and provides an evaluation indicator for each site training model 
-as a reference metric to allow users to screen different quality models.
-The tool currently models and verifies the feasibility of 450K chips and 850K chip sites, and in theory, this method is suitable for whole-genome methylation 
-computational prediction.
+
+PretiMeth is a precise computational prediction method of the CpG site-specific methylation level in multiple tissues or cells, it provides continuous methylation prediction values rather than methylation status and provides an evaluation indicator for each site training model as a reference metric to allow users to screen different quality models.
+
+The tool currently models and verifies the feasibility of 450K chips and 850K chip sites, and in theory, this method is suitable for whole-genome methylation computational prediction.
 
 ![image](https://github.com/JxTang-bioinformatics/PretiMeth/blob/master/images/web_picture0724_2.png)
 
