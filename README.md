@@ -8,7 +8,7 @@ The tool currently models and verifies the feasibility of 450K chips and 850K ch
 
 The diagram of PretiMeth model.
 
-Installation:
+**Installation:**
 
 Download PretiMeth by
 
@@ -16,5 +16,6 @@ https://github.com/JxTang-bioinformatics/PretiMeth.git
 
 Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6).
 
-Prediction tool:
-PretiMeth/Model for prediction/prediction.py.
+**Prediction tool:**
+
+**PretiMeth/Model for prediction/prediction.py.**
