@@ -1,4 +1,4 @@
-# PretiMeth
+# PretiMeth：precise prediction models for DNA methylation based on single methylation mark
 
 PretiMeth is a precise computational prediction method of the CpG site-specific methylation level in multiple tissues or cells, it provides continuous methylation prediction values rather than methylation status and provides an evaluation indicator for each site training model as a reference metric to allow users to screen different quality models.
 
