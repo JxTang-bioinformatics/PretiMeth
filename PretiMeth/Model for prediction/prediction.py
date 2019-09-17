@@ -9,8 +9,12 @@ def sigmoid(x):
 
 
 #sample for prediction
-path = r'/home/tjx/single_locus_prediction/independent_test/850kCpG_test_sample138_f4.txt' 
-data_norm = pd.read_csv(path,header=0,sep='\t')
+path = r'/home/tjx/single_locus_prediction/independent_test/GSM2883349-42710.txt' 
+#Header is set according to different files
+data = pd.read_csv(path,header=3,sep='\t')
+data = data[data['Detection Pval']<0.05]
+data = data[['ID','VALUE']]
+
 #match list
 path = r'/home/tjx/single_locus_prediction/exp with obs match table_0528.txt'
 pre_table = pd.read_csv(path,header=0,sep='\t')
@@ -23,9 +27,9 @@ path = r'/home/tjx/single_locus_prediction/results/logits_para_model_Ms_0528.txt
 para1 = pd.read_csv(path,header=0,sep='\t')
 
 #predicting
-for j in range(1,len(list(data_norm))):
-    a = list(data_norm)[j] 
-    data =  data_norm[['ID',a]] 
+for j in range(1,len(list(data))):
+    a = list(data)[j] 
+    data =  data[['ID',a]] 
                                                                    
     data = data.rename(columns={'ID':'obs'}) 
     data1 = pd.merge(pre_table,data[['obs',a]] , how='inner', on='obs')
