@@ -5,8 +5,9 @@ as a reference metric to allow users to screen different quality models.
 The tool currently models and verifies the feasibility of 450K chips and 850K chip sites, and in theory, this method is suitable for whole-genome methylation 
 computational prediction.
 
-图片：
-PretiMeth model architecture.
+![image](https://github.com/JxTang-bioinformatics/PretiMeth/blob/master/images/web_picture0724_2.png)
+
+The diagram of PretiMeth model.
 
 Installation:
 
