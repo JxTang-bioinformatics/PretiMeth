@@ -12,7 +12,7 @@ The diagram of PretiMeth model.
 
 Download PretiMeth by
 
-https://github.com/JxTang-bioinformatics/PretiMeth.git
+https://github.com/JxTang-bioinformatics/PretiMeth
 
 Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6).
 
