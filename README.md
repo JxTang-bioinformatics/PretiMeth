@@ -14,7 +14,7 @@ Download PretiMeth by
 
 https://github.com/JxTang-bioinformatics/PretiMeth
 
-Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6).
+Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6) and R 3.5.1.
 
 **Prediction tool:**
 
