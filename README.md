@@ -18,4 +18,8 @@ Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (
 
 **Prediction tool:**
 
-**PretiMeth/Model for prediction/prediction.py.**
+PretiMeth/Model for prediction/prediction.py.
+
+**Test data and step-by-step:**
+PretiMeth/Model for prediction/xxx
+PretiMeth/Model for prediction/xxx
