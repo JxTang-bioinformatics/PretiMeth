@@ -4,7 +4,7 @@
 
 The tool currently models and verifies the feasibility of 450K chips and 850K chip sites, and in theory, this method is suitable for whole-genome methylation computational prediction.
 
-![image](https://github.com/JxTang-bioinformatics/PretiMeth/blob/master/images/web_picture0724_2.png)
+![image](https://github.com/JxTang-bioinformatics/PretiMeth/blob/master/web_picture0724_2.png)
 
 The diagram of PretiMeth model.
 
