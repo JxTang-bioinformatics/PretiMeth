@@ -22,4 +22,4 @@ PretiMeth/Model for prediction/prediction.py.
 
 **Test data and step-by-step:**
 PretiMeth/Model for prediction/xxx
-PretiMeth/Model for prediction/xxx
+PretiMeth/Model for prediction/xxxx
