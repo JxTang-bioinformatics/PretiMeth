@@ -61,9 +61,9 @@ python **path**+'/'+prediction.py **path** **InputDataName**
 
 In output file, there are two columns, the first column is the CpG ID, and the second column is the predicted methylation value.
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
-
-
+You can also use PretiMeth by visiting one of our other websites via http://114.115.170.196/PretiMeth.
 
 
 
