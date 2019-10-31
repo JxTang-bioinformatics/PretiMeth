@@ -28,8 +28,9 @@ You will need to download the trained model, source code, required data, extract
 
 Main: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/prediction.py
 
-Parameters of models: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter1.txt and
-                      https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter2.txt
+Parameters of models: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter1.txt,
+                      https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter2.txt and 
+                      https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/logits_CV5_Evaluation.txt
 
 Demo Inputdata(450K): https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/GSM2772516-23655.txt
 
