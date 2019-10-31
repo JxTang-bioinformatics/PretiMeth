@@ -28,8 +28,8 @@ You will need to download the trained model, source code, required data, extract
 
 Main: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/prediction.py
 
-Parameters of models: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter1.py and
-                      https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter2.py
+Parameters of models: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter1.txt and
+                      https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter2.txt
 
 Demo Inputdata(450K): https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/GSM2772516-23655.txt
 
@@ -48,6 +48,10 @@ Your data should be in the correct format:
 In the **_command(CMD)_** of windows, you can use the following code to predict using PretiMeth:
 
 python **path**+'/'+prediction.py **path** **InputDataName**
+
+Just like: 
+
+![image](https://github.com/JxTang-bioinformatics/PretiMeth/raw/master/images/cmd_demo.png)
 
 **Note:** 
 
