@@ -16,7 +16,7 @@ The code of PretiMeth has been tested in Windows with Visual studio 2017 and Pyt
 
 (Finding methylation-similar loci on Visual studio 2017; Prediction on Python 2.7; Normalization for DML analysis on R 3.5.1)
 
-**Note:** The code of finding methylated-similar loci is not a necessary procedure for users to use PretiMeth for prediction.
+**Note:** The code about finding methylated-similar loci is not a necessary procedure for users to use PretiMeth for prediction.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
