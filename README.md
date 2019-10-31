@@ -39,11 +39,9 @@ Demo Inputdata(450K): https://github.com/JxTang-bioinformatics/PretiMeth/Predict
 
 Your data should be in the correct format:
 
-1) The given 450K data should be provided as one file (the file name named as you like, but make sure the same name given in prediction.py),
+1) The first three columns of the given 450K data file has to be listed in the order of: [ ‘ID_REF’, ‘VALUE’, ‘Detection Pval’],
 
-2) The first three columns of the given 450K data file has to be listed in the order of: [ ‘ID_REF’, ‘VALUE’, ‘Detection Pval’],
-
-3) Missing values of the given 450K data file has to be filled with ‘null’ or NA.
+2) Missing values of the given 450K data file has to be filled with ‘null’ or NA.
 
 In the **_command(CMD)_** of windows, you can use the following code to predict using PretiMeth:
 
