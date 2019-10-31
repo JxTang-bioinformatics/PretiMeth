@@ -8,8 +8,7 @@ The tool currently models and verifies the feasibility of 450K chips and 850K ch
 
 The diagram of PretiMeth model.
 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------
 
 **_Step 1: Before starting_**
 
