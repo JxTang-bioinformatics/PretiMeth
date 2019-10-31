@@ -45,13 +45,13 @@ Your data should be in the correct format:
 
 3) Missing values of the given 450K data file has to be filled with ‘null’ or NA.
 
-In the command(CMD) of windows, you can use the following code to predict using PretiMeth:
+In the **_command(CMD)_** of windows, you can use the following code to predict using PretiMeth:
 
 python **path**+'/'+prediction.py **path** **InputDataName**
 
 **Note:** 
 
-**path** should be set to your directory with the downloaded PretiMeth necessary files and the files you want to predict. 
+**path** should be set to your directory with the downloaded PretiMeth necessary files and the InputData. 
 
 **InputDataName** like GSM2772516-23655.txt
 
