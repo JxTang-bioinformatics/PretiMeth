@@ -12,14 +12,20 @@ The diagram of PretiMeth model.
 
 Download PretiMeth by
 
-https://github.com/JxTang-bioinformatics/PretiMeth
+https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/prediction.py
 
-Installation has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6) and R 3.5.1.
 
-**Prediction tool:**
+**_Before starting_**
+The code of PretiMeth has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6) and R 3.5.1.
+(Finding methylation-similar loci on Visual studio 2017; Prediction on Python 2.7; Normalization for DML analysis on R 3.5.1)
+**Note:** The code of finding methylated-similar loci is not a necessary procedure for users to use PretiMeth for prediction.
 
-PretiMeth/Model for prediction/prediction.py.
 
-**Test data and step-by-step:**
-PretiMeth/Model for prediction/xxx
-PretiMeth/Model for prediction/xxxx
+**_QuickStart_**
+You will need to download the trained model, source code, required data, extract them and **must locate them in the same directory**.
+**For prediction**, you need to download necessary files as fallowing:
+Main: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/prediction.py
+Parameters of models: https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter1.py
+                      https://github.com/JxTang-bioinformatics/PretiMeth/PredictionModel/Parameter2.py
+
+If
