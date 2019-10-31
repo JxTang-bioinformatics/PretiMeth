@@ -7,13 +7,14 @@ import math
 def sigmoid(x):
     return 1. / (1 + np.exp(-x))
 
-
-#sample for prediction
+##Input data (sample for prediction)
+##make sure change to your data and corresponding path
 path = r'/home/tjx/single_locus_prediction/independent_test/GSM2883349-42710.txt' 
+
 #Header is set according to different files
 data = pd.read_csv(path,header=3,sep='\t')
-data = data[data['Detection Pval']<0.05]
-data = data[['ID','VALUE']]
+data = data[data['%s' % list(data)[2]]<0.05]
+data = data[['%s' % list(data)[0],'%s' % list(data)[1]]]
 
 #match list
 path = r'/home/tjx/single_locus_prediction/exp with obs match table_0528.txt'
