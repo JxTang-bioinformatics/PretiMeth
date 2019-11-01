@@ -62,7 +62,7 @@ Just like:
 
 **_Step 4: Output_**
 
-In output file, there are eight columns, the first column is the CpG ID, the second column is the predicted methylation value, and the remaining other columns are the evaluation results of cross-validation for the corresponding CpG locus, which can be used to indicate the accuracy of the predicted result of the CpG locus.
+In output file, there are nine columns, the first column is the CpG ID, the second column is the predicted methylation value, and the remaining other columns are the evaluation results of cross-validation for the corresponding CpG locus, which can be used to indicate the accuracy of the predicted result of the CpG locus.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
