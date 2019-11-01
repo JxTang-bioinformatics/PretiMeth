@@ -12,7 +12,7 @@ The diagram of PretiMeth model.
 
 **_Step 1: Before starting_**
 
-The code of PretiMeth has been tested in Windows with Visual studio 2017 and Python 2.7 (and 3.6) and R 3.5.1.
+The code of PretiMeth has been tested in Windows with Visual studio 2017, Python 2.7 (and 3.6) and R 3.5.1.
 
 (Finding methylation-similar loci on Visual studio 2017; Prediction on Python 2.7; Normalization for DML analysis on R 3.5.1)
 
