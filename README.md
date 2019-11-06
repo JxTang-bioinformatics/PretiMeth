@@ -46,7 +46,7 @@ Your data should be in the correct format:
 
 In the **_command(CMD)_** of windows, you can use the following code to use PretiMeth:
 
-python **path(user settings)**+'/'+prediction.py **path(user settings)** **InputDataName(user settings)**
+python **path(user settings)**/prediction.py **path(user settings)** **InputDataName(user settings)**
 
 Just like: 
 
