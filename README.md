@@ -45,9 +45,9 @@ Your data should be in the correct format:
 2) Missing values of the given 450K data file has to be filled with ‘null’ or NA.
 
 In the **_command(CMD)_** of windows, you can use the following code to use PretiMeth:
-
+```
 python **path(user settings)**/prediction.py **path(user settings)** **InputDataName(user settings)**
-
+```
 Just like: 
 
 ![image](https://github.com/JxTang-bioinformatics/PretiMeth/raw/master/images/cmd_demo.png)
